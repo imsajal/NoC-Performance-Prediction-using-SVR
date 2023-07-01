@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="booksim2-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/booksim2-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
